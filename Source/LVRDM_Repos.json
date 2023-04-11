@@ -1,0 +1,26 @@
+{
+    "Description": "LabVIEW Dependency Manager (LVDM)",
+    "Version": "0.0.1",
+    "Repos": [{
+            "RepoHost": "GitHub",
+            "Repos": [{
+                    "RepoName": "Caraya",
+                    "URL": "https://github.com/Makkal-co/Caraya-LV2023",
+                    "LabVIEW Version": 2023,
+                    "LabVIEW Bitness": "x64"
+                }, {
+                    "RepoName": "OpenG",
+                    "URL": "",
+                    "LabVIEW Version": 2023,
+                    "LabVIEW Bitness": "x64"
+                }
+            ]
+        }, {
+            "RepoHost": "GitLab",
+            "Repos": []
+        }, {
+            "RepoHost": "BitBucket",
+            "Repos": []
+        }
+    ]
+}
